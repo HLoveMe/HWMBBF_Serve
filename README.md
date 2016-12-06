@@ -15,6 +15,8 @@
     
     MYSQL数据库
     
+    Django后台管理账号(name:zhuzihao   password:12345678)
+      
   2:数据导入(该数据只是包含部分数据)
   
     下载文件中的MYSQL_DATA为MYSQL数据库导出文件
