@@ -1,0 +1,2263 @@
+[
+    {
+      "id": "1",
+      "time_begin": "09:00",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "09:20",
+      "theme_name": "开场致辞：探索移动未来",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "09:00-09:20",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": "1",
+      "theme_guest": [
+        {
+          "guest_id": "1",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582314a5ae58c.jpg",
+          "guest_name": "胡厚崑",
+          "company": "华为",
+          "position": "华为副董事长"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "time_begin": "09:20",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "09:40",
+      "theme_name": "走向万物互联的美好未来",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "09:20-09:40",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": "1",
+      "theme_guest": [
+        {
+          "guest_id": "27",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582315698011b.jpg",
+          "guest_name": "Mats Granryd",
+          "company": "GSMA",
+          "position": "GSMA 总干事"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "time_begin": "09:40",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "10:00",
+      "theme_name": "TDD/FDD融合，迈向未来移动宽带之道",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "09:40-10:00",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": "1",
+      "theme_guest": [
+        {
+          "guest_id": "28",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5823141218bb5.jpg",
+          "guest_name": "何力勤",
+          "company": "GTI",
+          "position": "GTI 主席"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "time_begin": "10:00",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "10:20",
+      "theme_name": "连接驱动发展，拥抱万物互联时代",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "10:00-10:20",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": "1",
+      "theme_guest": [
+        {
+          "guest_id": "106",
+          "guest_type": "2",
+          "avatar": "http://huawei.vr68.com/Public/images/default.png",
+          "guest_name": "中国移动",
+          "company": "中国移动",
+          "position": ""
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "time_begin": "10:20",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "10:40",
+      "theme_name": "软银眼中的未来社会",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "10:20-10:40",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": [
+        {
+          "guest_id": "33",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5824499bca81a.png",
+          "guest_name": "宫内谦",
+          "company": "软银集团",
+          "position": "软银总裁兼CEO"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "time_begin": "10:40",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "11:30",
+      "theme_name": "茶歇和展台参观",
+      "address": "幕张国际展览大厅3号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "10:40-11:30",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": []
+    },
+    {
+      "id": "7",
+      "time_begin": "11:30",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "11:50",
+      "theme_name": "2025的美好愿景",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "11:30-11:50",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": [
+        {
+          "guest_id": "34",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582315512ac7d.jpg",
+          "guest_name": "津田纯嗣",
+          "company": "安川电机",
+          "position": "安川电机董事长"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "time_begin": "11:50",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "12:10",
+      "theme_name": "5G之路",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "11:50-12:10",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": [
+        {
+          "guest_id": "31",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5823143eb55a9.jpg",
+          "guest_name": "Fotis Karonis",
+          "company": "EE & BT集团",
+          "position": "EE首席技术信息官，BT集团移动与IT总经理"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "time_begin": "12:10",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "12:30",
+      "theme_name": "5G时代的未来互联网",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "12:10-12:30",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": [
+        {
+          "guest_id": "35",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582313402857f.jpg",
+          "guest_name": "Arnaud Vamparys",
+          "company": "Orange",
+          "position": "Orange无线网络高级副总裁"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "time_begin": "12:30",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "14:00",
+      "theme_name": "午餐",
+      "address": "",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "12:30-14:00",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": []
+    },
+    {
+      "id": "12",
+      "time_begin": "14:00",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "14:20",
+      "theme_name": "通往5G成功之路",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "14:00-14:20",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": [
+        {
+          "guest_id": "22",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/581ae44092765.png",
+          "guest_name": "丁耘",
+          "company": "华为",
+          "position": "华为常务董事，产品与解决方案总裁"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "time_begin": "14:20",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "14:40",
+      "theme_name": "联合创新，持续提升客户和社会价值",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "14:20-14:40",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": [
+        {
+          "guest_id": "36",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582bfe16a160c.png",
+          "guest_name": "中村宽博士",
+          "company": "NTT DOCOMO",
+          "position": "NTT DOCOMO高级副总裁"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "time_begin": "14:40",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "15:00",
+      "theme_name": "拥有超越人眼识别的高级图像传感技术的宽带物联网 ",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "14:40-15:00",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": [
+        {
+          "guest_id": "131",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582e29c54b1ba.png",
+          "guest_name": "岛田启一郎",
+          "company": "索尼",
+          "position": "索尼公司高级副总裁"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "time_begin": "15:00",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "15:20",
+      "theme_name": "新一代CNN: CNN如何改变全球新闻传播",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "15:00-15:20",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": [
+        {
+          "guest_id": "37",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5823130885c70.jpg",
+          "guest_name": "Alex Wellen",
+          "company": "CNN",
+          "position": "CNN首席产品官"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "time_begin": "15:20",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "16:20",
+      "theme_name": "茶歇和展台参观",
+      "address": "幕张国际展览大厅3号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "15:20-16:20",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": []
+    },
+    {
+      "id": "37",
+      "time_begin": "16:20",
+      "vedio_url": "",
+      "vedio_type": "1",
+      "time_end": "16:40",
+      "theme_name": "现场投票调研（未来商业机会，跨产业合作…）",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "16:20-16:40",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": []
+    },
+    {
+      "id": "17",
+      "time_begin": "16:40",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "17:00",
+      "theme_name": "展望移动宽带和IoT社会",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "16:40-17:00",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": [
+        {
+          "guest_id": "29",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582314c22a12d.jpg",
+          "guest_name": "村井纯教授",
+          "company": "庆应义塾大学",
+          "position": "庆应义塾大学环境与信息学院院长，日本互联网之父"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "time_begin": "17:00",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "17:20",
+      "theme_name": "LG U+ IoT业务介绍",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "17:00-17:20",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": [
+        {
+          "guest_id": "38",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582312473c8e9.jpg",
+          "guest_name": "Ahn Sung Jun",
+          "company": "LG Uplus",
+          "position": "LG Uplus物联网业务高级副总裁"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "time_begin": "17:20",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "17:40",
+      "theme_name": "独一无二的通信运营商",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "17:20-17:40",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": [
+        {
+          "guest_id": "39",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5832d17f728e0.png",
+          "guest_name": "Veli-Matti Johannes Mattila",
+          "company": "Elisa",
+          "position": "Elisa首席执行官"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "time_begin": "17:40",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "18:00",
+      "theme_name": "物联网人工智能，通往未来之路",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "17:40-18:00",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": [
+        {
+          "guest_id": "40",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5823161819f6d.jpg",
+          "guest_name": "下辻成佳",
+          "company": "东芝",
+          "position": "东芝副总裁，工业ICT执行副总裁"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "time_begin": "18:00",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "18:30",
+      "theme_name": "专题讨论：跨产业合作如何联合创新，并实现商业成功",
+      "address": "幕张国际展览大厅2号馆",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "18:00-18:30",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": 0,
+      "theme_guest": [
+        {
+          "guest_id": "102",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5832cfc724f1a.png",
+          "guest_name": "Fabian Wong",
+          "company": "安永",
+          "position": "安永合伙人 "
+        },
+        {
+          "guest_id": "65",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5832cf7c6ae5d.jpg",
+          "guest_name": "Luke Ibbetson",
+          "company": "Vodafone",
+          "position": "沃达丰研发负责人"
+        },
+        {
+          "guest_id": "138",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/default.png",
+          "guest_name": "Gian Piero Fici",
+          "company": "意大利电信",
+          "position": "TI技术部创新总监"
+        },
+        {
+          "guest_id": "103",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582bfda44e99b.png",
+          "guest_name": "Rodolphe Gelin",
+          "company": "SoftBank Corp.",
+          "position": "SoftBank机器人高级副总裁和首席科学官"
+        },
+        {
+          "guest_id": "104",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582e293316765.jpg",
+          "guest_name": "Arno Strotgen",
+          "company": "ABB",
+          "position": "ABB机器人集团副总裁"
+        },
+        {
+          "guest_id": "53",
+          "guest_type": "1",
+          "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582bfecc61cbb.png",
+          "guest_name": "Michael Perry",
+          "company": "大疆",
+          "position": "大疆市场部副总裁"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "time_begin": "19:00",
+      "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+      "vedio_type": "1",
+      "time_end": "22:00",
+      "theme_name": "大会晚宴",
+      "address": "",
+      "day": "1",
+      "type": "1",
+      "date": "2016-11-24",
+      "time": "19:00-22:00",
+      "status": 2,
+      "status_op": "已结束",
+      "type_info": "主题演讲",
+      "is_collect": "1",
+      "theme_guest": []
+    }
+    ,
+    {
+            "id": "23",
+            "time_begin": "09:00",
+            "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+            "vedio_type": "1",
+            "time_end": "09:20",
+            "theme_name": "TELUS的5G创新实验室",
+            "address": "幕张国际展览大厅2号馆",
+            "day": "2",
+            "type": "1",
+            "date": "2016-11-25",
+            "time": "09:00-09:20",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "主题演讲",
+            "is_collect": "1",
+            "theme_guest": [
+                {
+                    "guest_id": "135",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582c000285f48.jpg",
+                    "guest_name": "Dr. Ibrahim Gedeon",
+                    "company": "TELUS",
+                    "position": "TELUS首席技术官"
+                }
+            ]
+        },
+        {
+            "id": "25",
+            "time_begin": "09:20",
+            "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+            "vedio_type": "1",
+            "time_end": "09:40",
+            "theme_name": "领先一步，从市场的新玩家成为移动宽带的领导者",
+            "address": "幕张国际展览大厅2号馆",
+            "day": "2",
+            "type": "1",
+            "date": "2016-11-25",
+            "time": "09:20-09:40",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "主题演讲",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "43",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582316443a974.jpg",
+                    "guest_name": "Steven Christopher Hopcraft",
+                    "company": "TRUE",
+                    "position": "TRUE首席技术官"
+                }
+            ]
+        },
+        {
+            "id": "26",
+            "time_begin": "09:40",
+            "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+            "vedio_type": "1",
+            "time_end": "10:00",
+            "theme_name": "为数字迷宫导航",
+            "address": "幕张国际展览大厅2号馆",
+            "day": "2",
+            "type": "1",
+            "date": "2016-11-25",
+            "time": "09:40-10:00",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "主题演讲",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "44",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582315b844883.jpg",
+                    "guest_name": "Nandan Mer",
+                    "company": "万事达卡",
+                    "position": "万事达卡执行副总裁"
+                }
+            ]
+        },
+        {
+            "id": "27",
+            "time_begin": "10:00",
+            "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+            "vedio_type": "1",
+            "time_end": "10:20",
+            "theme_name": "M-Pesa加速物联网发展新机遇",
+            "address": "幕张国际展览大厅2号馆",
+            "day": "2",
+            "type": "1",
+            "date": "2016-11-25",
+            "time": "10:00-10:20",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "主题演讲",
+            "is_collect": "1",
+            "theme_guest": [
+                {
+                    "guest_id": "45",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/58231671d6042.jpg",
+                    "guest_name": "Thibaud Rerolle",
+                    "company": "Safaricom",
+                    "position": "Safaricom首席技术官"
+                }
+            ]
+        },
+        {
+            "id": "28",
+            "time_begin": "10:20",
+            "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+            "vedio_type": "1",
+            "time_end": "11:20",
+            "theme_name": "茶歇和展台参观",
+            "address": "幕张国际展览大厅3号馆",
+            "day": "2",
+            "type": "1",
+            "date": "2016-11-25",
+            "time": "10:20-11:20",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "主题演讲",
+            "is_collect": 0,
+            "theme_guest": []
+        },
+        {
+            "id": "29",
+            "time_begin": "11:20",
+            "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+            "vedio_type": "1",
+            "time_end": "11:25",
+            "theme_name": "TechCity - 主题介绍视频",
+            "address": "幕张国际展览大厅2号馆",
+            "day": "2",
+            "type": "1",
+            "date": "2016-11-25",
+            "time": "11:20-11:25",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "主题演讲",
+            "is_collect": 0,
+            "theme_guest": []
+        },
+        {
+            "id": "92",
+            "time_begin": "11:25",
+            "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+            "vedio_type": "1",
+            "time_end": "11:30",
+            "theme_name": "TechCity - 软银网络的最新进展",
+            "address": "幕张国际展览大厅2号馆",
+            "day": "2",
+            "type": "1",
+            "date": "2016-11-25",
+            "time": "11:25-11:30",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "主题演讲",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "108",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582e2db18b39b.jpg",
+                    "guest_name": "飯田唯史",
+                    "company": "软银",
+                    "position": "软银移动技术本部执行役员本部长"
+                }
+            ]
+        },
+        {
+            "id": "93",
+            "time_begin": "11:30",
+            "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+            "vedio_type": "1",
+            "time_end": "12:05",
+            "theme_name": "专题讨论：TechCity如何持续创新",
+            "address": "幕张国际展览大厅2号馆",
+            "day": "2",
+            "type": "1",
+            "date": "2016-11-25",
+            "time": "11:30-12:05",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "主题演讲",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "107",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5832d36ac3535.png",
+                    "guest_name": "Sebastian Anthony",
+                    "company": "Ars Technica",
+                    "position": "编辑，Ars Technica"
+                },
+                {
+                    "guest_id": "132",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582e297475c43.jpg",
+                    "guest_name": "Mansoor Hanif",
+                    "company": "BT集团",
+                    "position": "英国电信网络与创新总监"
+                },
+                {
+                    "guest_id": "135",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582c000285f48.jpg",
+                    "guest_name": "Dr. Ibrahim Gedeon",
+                    "company": "TELUS",
+                    "position": "TELUS首席技术官"
+                },
+                {
+                    "guest_id": "109",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5832d42140e88.png",
+                    "guest_name": "北原秀文",
+                    "company": "软银",
+                    "position": "软银移动高级总监"
+                },
+                {
+                    "guest_id": "133",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582e2958d353b.png",
+                    "guest_name": "Jesper Oldenburg",
+                    "company": "TDC集团",
+                    "position": "TDC集团移动战略和技术副总裁"
+                },
+                {
+                    "guest_id": "134",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582e290a28397.jpg",
+                    "guest_name": "周跃峰",
+                    "company": "华为",
+                    "position": "华为无线网络产品线首席营销官"
+                }
+            ]
+        },
+        {
+            "id": "94",
+            "time_begin": "12:05",
+            "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+            "vedio_type": "1",
+            "time_end": "12:10",
+            "theme_name": "TechCity庆祝仪式",
+            "address": "幕张国际展览大厅2号馆",
+            "day": "2",
+            "type": "1",
+            "date": "2016-11-25",
+            "time": "12:05-12:10",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "主题演讲",
+            "is_collect": 0,
+            "theme_guest": []
+        },
+        {
+            "id": "30",
+            "time_begin": "12:10",
+            "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+            "vedio_type": "1",
+            "time_end": "12:40",
+            "theme_name": "下一代移动新架构",
+            "address": "幕张国际展览大厅2号馆",
+            "day": "2",
+            "type": "1",
+            "date": "2016-11-25",
+            "time": "12:10-12:40",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "主题演讲",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "46",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/58335887b12a6.png",
+                    "guest_name": "邓泰华",
+                    "company": "华为",
+                    "position": "华为无线网络产品线总裁"
+                }
+            ]
+        },
+        {
+            "id": "31",
+            "time_begin": "12:40",
+            "vedio_url": "https://engage.vevent.com/log_thru.jsp?eid=3229&seid=2591&standaloneparam=txnMJJDz-akcSzOvg93i2u6VXKnKwq14Mv7ZtIeszVnCDUcFDMI3rksg2I-SeDEju_ZvFMrmkwgBXZkFyVin3ta8CFF6duFBwmnfURDesQI",
+            "vedio_type": "1",
+            "time_end": "14:00",
+            "theme_name": "午餐",
+            "address": "",
+            "day": "2",
+            "type": "1",
+            "date": "2016-11-25",
+            "time": "12:40-14:00",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "主题演讲",
+            "is_collect": 0,
+            "theme_guest": []
+        },
+        {
+            "id": "32",
+            "time_begin": "14:00",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "14:05",
+            "theme_name": "欢迎致辞",
+            "address": "东京千叶APA宴会厅2楼3号会议室",
+            "day": "2",
+            "type": "2",
+            "date": "2016-11-25",
+            "time": "14:00-14:05",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "跨产业合作圆桌（GTI合办）",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "54",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "熊伟",
+                    "company": "华为",
+                    "position": "华为无线网络TDD产品线总裁&车联网产品线总裁"
+                }
+            ]
+        },
+        {
+            "id": "41",
+            "time_begin": "14:05",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "14:10",
+            "theme_name": "移动运营商与车联网",
+            "address": "东京千叶APA宴会厅2楼3号会议室",
+            "day": "2",
+            "type": "2",
+            "date": "2016-11-25",
+            "time": "14:05-14:10",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "跨产业合作圆桌（GTI合办）",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "55",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Yuki Saji",
+                    "company": "SB",
+                    "position": "SB Drive首席执行官"
+                }
+            ]
+        },
+        {
+            "id": "82",
+            "time_begin": "14:15",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "14:55",
+            "theme_name": "圆桌讨论：面向车联世界的移动运营商产业合作, 商业机会以及战略探讨",
+            "address": "东京千叶APA宴会厅2楼3号会议室",
+            "day": "2",
+            "type": "2",
+            "date": "2016-11-25",
+            "time": "14:15-14:55",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "跨产业合作圆桌（GTI合办）",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "114",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "所有与会者",
+                    "company": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "id": "42",
+            "time_begin": "14:55",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:00",
+            "theme_name": "未来车联网对于5G的诉求",
+            "address": "东京千叶APA宴会厅2楼3号会议室",
+            "day": "2",
+            "type": "2",
+            "date": "2016-11-25",
+            "time": "14:55-15:00",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "跨产业合作圆桌（GTI合办）",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "56",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Kenichi Murata",
+                    "company": "丰田",
+                    "position": "丰田车联网战略主管"
+                }
+            ]
+        },
+        {
+            "id": "43",
+            "time_begin": "15:00",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:05",
+            "theme_name": "纯管道外的运营商机会",
+            "address": "东京千叶APA宴会厅2楼3号会议室",
+            "day": "2",
+            "type": "2",
+            "date": "2016-11-25",
+            "time": "15:00-15:05",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "跨产业合作圆桌（GTI合办）",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "57",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Dr. Osvaldo Gonsa",
+                    "company": "大陆集团",
+                    "position": "大陆集团移动通讯总监"
+                }
+            ]
+        },
+        {
+            "id": "83",
+            "time_begin": "15:05",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:30",
+            "theme_name": "圆桌讨论：应用案例和商业模式创新 ",
+            "address": "东京千叶APA宴会厅2楼3号会议室",
+            "day": "2",
+            "type": "2",
+            "date": "2016-11-25",
+            "time": "15:05-15:30",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "跨产业合作圆桌（GTI合办）",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "114",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "所有与会者",
+                    "company": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "id": "44",
+            "time_begin": "15:45",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:55",
+            "theme_name": "云化机器人探索及GTI云化机器人工作组介绍",
+            "address": "东京千叶APA宴会厅2楼3号会议室",
+            "day": "2",
+            "type": "2",
+            "date": "2016-11-25",
+            "time": "15:45-15:55",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "跨产业合作圆桌（GTI合办）",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "58",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Tomohiko Furutani",
+                    "company": "软银",
+                    "position": "软银技术战略办公室主管"
+                }
+            ]
+        },
+        {
+            "id": "50",
+            "time_begin": "15:55",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "16:05",
+            "theme_name": "云化机器人架构",
+            "address": "东京千叶APA宴会厅2楼3号会议室",
+            "day": "2",
+            "type": "2",
+            "date": "2016-11-25",
+            "time": "15:55-16:05",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "跨产业合作圆桌（GTI合办）",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "142",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "江海涛",
+                    "company": "达闼科技",
+                    "position": "达闼科技首席运营官"
+                }
+            ]
+        },
+        {
+            "id": "80",
+            "time_begin": "16:05",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "16:15",
+            "theme_name": "机器人技术在移动性，通信，云控制等方面的发展趋势",
+            "address": "东京千叶APA宴会厅2楼3号会议室",
+            "day": "2",
+            "type": "2",
+            "date": "2016-11-25",
+            "time": "16:05-16:15",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "跨产业合作圆桌（GTI合办）",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "103",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582bfda44e99b.png",
+                    "guest_name": "Rodolphe Gelin",
+                    "company": "SoftBank Corp.",
+                    "position": "SoftBank机器人高级副总裁和首席科学官"
+                }
+            ]
+        },
+        {
+            "id": "51",
+            "time_begin": "16:15",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "16:25",
+            "theme_name": "4G + / 5G将如何实现机器人技术的发展",
+            "address": "东京千叶APA宴会厅2楼3号会议室",
+            "day": "2",
+            "type": "2",
+            "date": "2016-11-25",
+            "time": "16:15-16:25",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "跨产业合作圆桌（GTI合办）",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "61",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "杨光",
+                    "company": "中国移动研究院",
+                    "position": "中国移动研究院无线技术研究所副所长"
+                }
+            ]
+        },
+        {
+            "id": "84",
+            "time_begin": "16:25",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "17:00",
+            "theme_name": "圆桌讨论：面向未来5G网路时代，云化机器人对于移动运营商的机会与挑战",
+            "address": "东京千叶APA宴会厅2楼3号会议室",
+            "day": "2",
+            "type": "2",
+            "date": "2016-11-25",
+            "time": "16:25-17:00",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "跨产业合作圆桌（GTI合办）",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "114",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "所有与会者",
+                    "company": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "id": "36",
+            "time_begin": "14:00",
+            "vedio_url": "",
+            "vedio_type": "2",
+            "time_end": "14:05",
+            "theme_name": "欢迎致辞",
+            "address": "东京千叶新大谷酒店2楼会议室“丽”",
+            "day": "2",
+            "type": "3",
+            "date": "2016-11-25",
+            "time": "14:00-14:05",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "GSMA移动物联网峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "64",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Graham Trickey",
+                    "company": "GSMA",
+                    "position": "GSMA Connected Living项目主管"
+                }
+            ]
+        },
+        {
+            "id": "52",
+            "time_begin": "14:05",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "14:15",
+            "theme_name": "主题演讲",
+            "address": "东京千叶新大谷酒店2楼会议室“丽” ",
+            "day": "2",
+            "type": "3",
+            "date": "2016-11-25",
+            "time": "14:05-14:15",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "GSMA移动物联网峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "65",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5832cf7c6ae5d.jpg",
+                    "guest_name": "Luke Ibbetson",
+                    "company": "Vodafone",
+                    "position": "沃达丰研发负责人"
+                }
+            ]
+        },
+        {
+            "id": "81",
+            "time_begin": "14:15",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:15",
+            "theme_name": "NB-IoT全球市场商用进展",
+            "address": "东京千叶新大谷酒店2楼会议室“丽”",
+            "day": "2",
+            "type": "3",
+            "date": "2016-11-25",
+            "time": "14:15-15:15",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "GSMA移动物联网峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "64",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Graham Trickey",
+                    "company": "GSMA",
+                    "position": "GSMA Connected Living项目主管"
+                },
+                {
+                    "guest_id": "110",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Naoki Tani",
+                    "company": "NTT DOCOMO",
+                    "position": "NTT DOCOMO IoT业务部总经理"
+                },
+                {
+                    "guest_id": "111",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Hiroshi Tsuji",
+                    "company": "KDDI",
+                    "position": "KDDI 产品及设备技术总经理"
+                },
+                {
+                    "guest_id": "136",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "肖善鹏",
+                    "company": "中国移动",
+                    "position": "中国移动研究院测试所副所长"
+                }
+            ]
+        },
+        {
+            "id": "85",
+            "time_begin": "15:15",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:50",
+            "theme_name": "NB-IoT产业发展讨论：移动互联网技术进展",
+            "address": "东京千叶新大谷酒店2楼会议室“丽”",
+            "day": "2",
+            "type": "3",
+            "date": "2016-11-25",
+            "time": "15:15-15:50",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "GSMA移动物联网峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "115",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Shane Rooney",
+                    "company": "GSMA",
+                    "position": "GSMA物联生活项目物联网主管"
+                },
+                {
+                    "guest_id": "116",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Jean-Christophe Laneri",
+                    "company": "爱立信",
+                    "position": "爱立信东北亚网络产品解决方案主管"
+                },
+                {
+                    "guest_id": "118",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "张耿豪",
+                    "company": "Mediatek",
+                    "position": "Mediatek物联网高级营销经理"
+                },
+                {
+                    "guest_id": "119",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Brian Cho",
+                    "company": "Nokia",
+                    "position": "Nokia亚太及日本地区技术主管"
+                },
+                {
+                    "guest_id": "120",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Simon Glassman",
+                    "company": "u-blox",
+                    "position": "u-blox 战略合作管理主管"
+                }
+            ]
+        },
+        {
+            "id": "86",
+            "time_begin": "15:50",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "17:00",
+            "theme_name": "NB-IoT商用案例及关键应用分享",
+            "address": "东京千叶新大谷酒店2楼会议室“丽”",
+            "day": "2",
+            "type": "3",
+            "date": "2016-11-25",
+            "time": "15:50-17:00",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "GSMA移动物联网峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "64",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Graham Trickey",
+                    "company": "GSMA",
+                    "position": "GSMA Connected Living项目主管"
+                },
+                {
+                    "guest_id": "121",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "曲永雷",
+                    "company": "博世",
+                    "position": "博世物联设备及解决方案亚太区总经理"
+                },
+                {
+                    "guest_id": "122",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "王宗辉",
+                    "company": "中国计量协会",
+                    "position": "中国计量协会水表工作委员会副主任委员"
+                },
+                {
+                    "guest_id": "123",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "周黎明",
+                    "company": "深圳水务集团",
+                    "position": "深圳水务集团副总经理"
+                },
+                {
+                    "guest_id": "124",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Takeshi Sato",
+                    "company": "MuRata",
+                    "position": "General Manager of IoT Solution Business Development Department, MuRata"
+                }
+            ]
+        },
+        {
+            "id": "39",
+            "time_begin": "14:00",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "14:05",
+            "theme_name": "致欢迎辞",
+            "address": "东京千叶新大谷酒店2楼会议室“舞” ",
+            "day": "2",
+            "type": "4",
+            "date": "2016-11-25",
+            "time": "14:00-14:05",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "5G峰会：通往全联接之路",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "137",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Caroline Gabriel",
+                    "company": "Rethink Technology Research",
+                    "position": "Rethink Technology Research联合创始人与研究总监"
+                }
+            ]
+        },
+        {
+            "id": "53",
+            "time_begin": "14:05",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "14:15",
+            "theme_name": "5G标准进展更新",
+            "address": "东京千叶新大谷酒店2楼会议室“舞” ",
+            "day": "2",
+            "type": "4",
+            "date": "2016-11-25",
+            "time": "14:05-14:15",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "5G峰会：通往全联接之路",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "88",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Dr. Nagata Satoshi",
+                    "company": "3GPP",
+                    "position": "3GPP RAN1 主席"
+                }
+            ]
+        },
+        {
+            "id": "54",
+            "time_begin": "14:15",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "14:25",
+            "theme_name": "推进5G在中国的发展及全球协作",
+            "address": "东京千叶新大谷酒店2楼会议室“舞”",
+            "day": "2",
+            "type": "4",
+            "date": "2016-11-25",
+            "time": "14:15-14:25",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "5G峰会：通往全联接之路",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "96",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "陈立东",
+                    "company": "中国工信部",
+                    "position": "中国工信部通信发展司副司长"
+                }
+            ]
+        },
+        {
+            "id": "55",
+            "time_begin": "14:25",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "14:35",
+            "theme_name": "如何促进全球5G频谱的统一",
+            "address": "东京千叶新大谷酒店2楼会议室“舞” ",
+            "day": "2",
+            "type": "4",
+            "date": "2016-11-25",
+            "time": "14:25-14:35",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "5G峰会：通往全联接之路",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "139",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Federico Boccardi",
+                    "company": "Ofcom",
+                    "position": "Ofcom首席技术顾问"
+                }
+            ]
+        },
+        {
+            "id": "87",
+            "time_begin": "14:35",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:05",
+            "theme_name": "5G产业发展和频谱协同策略讨论",
+            "address": "东京千叶新大谷酒店2楼会议室“舞”",
+            "day": "2",
+            "type": "4",
+            "date": "2016-11-25",
+            "time": "14:35-15:05",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "5G峰会：通往全联接之路",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "125",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Zaheen Khan",
+                    "company": "华为",
+                    "position": ""
+                },
+                {
+                    "guest_id": "126",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Dr. Youngnam Han",
+                    "company": "",
+                    "position": "5G论坛指导委员会主席"
+                },
+                {
+                    "guest_id": "139",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Federico Boccardi",
+                    "company": "Ofcom",
+                    "position": "Ofcom首席技术顾问"
+                },
+                {
+                    "guest_id": "128",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582f33290956f.jpg",
+                    "guest_name": "黄宇红",
+                    "company": "中国移动研究院",
+                    "position": "中国移动研究院副院长"
+                },
+                {
+                    "guest_id": "129",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Kelly Hisaki",
+                    "company": "Bell",
+                    "position": "Bell无线技术战略高级副总监"
+                },
+                {
+                    "guest_id": "130",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "童文博士",
+                    "company": "华为",
+                    "position": "华为5G首席科学家"
+                }
+            ]
+        },
+        {
+            "id": "56",
+            "time_begin": "15:05",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:15",
+            "theme_name": "5G B2H：最后一公里家庭无线宽带接入",
+            "address": "东京千叶新大谷酒店2楼会议室“舞” ",
+            "day": "2",
+            "type": "4",
+            "date": "2016-11-25",
+            "time": "15:05-15:15",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "5G峰会：通往全联接之路",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "135",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582c000285f48.jpg",
+                    "guest_name": "Dr. Ibrahim Gedeon",
+                    "company": "TELUS",
+                    "position": "TELUS首席技术官"
+                }
+            ]
+        },
+        {
+            "id": "58",
+            "time_begin": "15:15",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:25",
+            "theme_name": "5G B2C：让VR/AR触手可及",
+            "address": "东京千叶新大谷酒店2楼会议室“舞” ",
+            "day": "2",
+            "type": "4",
+            "date": "2016-11-25",
+            "time": "15:15-15:25",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "5G峰会：通往全联接之路",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "84",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "戴若犁",
+                    "company": "诺亦腾",
+                    "position": "诺亦腾联合创始人&首席技术官"
+                }
+            ]
+        },
+        {
+            "id": "57",
+            "time_begin": "15:25",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:35",
+            "theme_name": "5G B2V：5G时代工业自动化的探索",
+            "address": "东京千叶新大谷酒店2楼会议室“舞” ",
+            "day": "2",
+            "type": "4",
+            "date": "2016-11-25",
+            "time": "15:25-15:35",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "5G峰会：通往全联接之路",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "85",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Heinrich Munz",
+                    "company": "KUKA",
+                    "position": "KUKA工业4.0首席架构师&战略技术顾问"
+                }
+            ]
+        },
+        {
+            "id": "59",
+            "time_begin": "15:35",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:45",
+            "theme_name": "5G B2V：5GAA及车联网产业发展 ",
+            "address": "东京千叶新大谷酒店2楼会议室“舞” ",
+            "day": "2",
+            "type": "4",
+            "date": "2016-11-25",
+            "time": "15:35-15:45",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "5G峰会：通往全联接之路",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "83",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Markus Dilinger",
+                    "company": "5GAA",
+                    "position": "5GAA执行委员会秘书长"
+                }
+            ]
+        },
+        {
+            "id": "60",
+            "time_begin": "15:45",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "16:00",
+            "theme_name": "通往5G成功之路",
+            "address": "东京千叶新大谷酒店2楼会议室“舞” ",
+            "day": "2",
+            "type": "4",
+            "date": "2016-11-25",
+            "time": "15:45-16:00",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "5G峰会：通往全联接之路",
+            "is_collect": "1",
+            "theme_guest": [
+                {
+                    "guest_id": "81",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582fc33380a74.jpg",
+                    "guest_name": "杨超斌",
+                    "company": "华为",
+                    "position": "华为5G产品线总裁"
+                }
+            ]
+        },
+        {
+            "id": "62",
+            "time_begin": "16:00",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "16:15",
+            "theme_name": "5G: 从演进到变革",
+            "address": "东京千叶新大谷酒店2楼会议室“舞” ",
+            "day": "2",
+            "type": "4",
+            "date": "2016-11-25",
+            "time": "16:00-16:15",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "5G峰会：通往全联接之路",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "80",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Juan Carlos Garcia",
+                    "company": "Telefonica",
+                    "position": "Telefonica无线首席技术官"
+                }
+            ]
+        },
+        {
+            "id": "63",
+            "time_begin": "16:15",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "16:30",
+            "theme_name": "5G部署进展和计划",
+            "address": "东京千叶新大谷酒店2楼会议室“舞” ",
+            "day": "2",
+            "type": "4",
+            "date": "2016-11-25",
+            "time": "16:15-16:30",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "5G峰会：通往全联接之路",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "82",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Takehiro Nakamura",
+                    "company": "NTT DOCOMO",
+                    "position": "NTT DOCOMO副总裁，5G实验室总经理 "
+                }
+            ]
+        },
+        {
+            "id": "64",
+            "time_begin": "16:30",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "16:45",
+            "theme_name": "闭幕致辞",
+            "address": "东京千叶新大谷酒店2楼会议室“舞”",
+            "day": "2",
+            "type": "4",
+            "date": "2016-11-25",
+            "time": "16:30-16:45",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "5G峰会：通往全联接之路",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "137",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Caroline Gabriel",
+                    "company": "Rethink Technology Research",
+                    "position": "Rethink Technology Research联合创始人与研究总监"
+                }
+            ]
+        },
+        {
+            "id": "38",
+            "time_begin": "14:00",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "14:10",
+            "theme_name": "致欢迎辞",
+            "address": "东京千叶新大谷酒店2楼会议室“悠”",
+            "day": "2",
+            "type": "5",
+            "date": "2016-11-25",
+            "time": "14:00-14:10",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "4.5G网络建设峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "140",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "安剑",
+                    "company": "华为",
+                    "position": "华为无线网络Marketing与解决方案销售总裁"
+                }
+            ]
+        },
+        {
+            "id": "65",
+            "time_begin": "14:10",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "14:25",
+            "theme_name": "4.5G全球市场进展和洞察",
+            "address": "东京千叶新大谷酒店2楼会议室“悠”",
+            "day": "2",
+            "type": "5",
+            "date": "2016-11-25",
+            "time": "14:10-14:25",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "4.5G网络建设峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "77",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Alan Hadden",
+                    "company": "GSA",
+                    "position": "GSA副总裁"
+                }
+            ]
+        },
+        {
+            "id": "66",
+            "time_begin": "14:25",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "14:40",
+            "theme_name": "Small Cell 联合白皮书发布",
+            "address": "东京千叶新大谷酒店2楼会议室“悠” ",
+            "day": "2",
+            "type": "5",
+            "date": "2016-11-25",
+            "time": "14:25-14:40",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "4.5G网络建设峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "76",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Joe Barrett",
+                    "company": "GSA",
+                    "position": "GSA总裁"
+                }
+            ]
+        },
+        {
+            "id": "67",
+            "time_begin": "14:40",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "14:55",
+            "theme_name": "4.5G部署：4.5G规模部署带来快速盈利增长",
+            "address": "东京千叶新大谷酒店2楼会议室“悠”",
+            "day": "2",
+            "type": "5",
+            "date": "2016-11-25",
+            "time": "14:40-14:55",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "4.5G网络建设峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "75",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Gediz Sezgin",
+                    "company": "Turkcell",
+                    "position": "Turkcell首席网络官"
+                }
+            ]
+        },
+        {
+            "id": "70",
+            "time_begin": "14:55",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:10",
+            "theme_name": "WTTx@4.5G：WTTx在菲律宾的快速发展",
+            "address": "东京千叶新大谷酒店2楼会议室“悠”",
+            "day": "2",
+            "type": "5",
+            "date": "2016-11-25",
+            "time": "14:55-15:10",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "4.5G网络建设峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "71",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Ashish Pilani",
+                    "company": "Globe",
+                    "position": "Globe无线工程与实施主管"
+                }
+            ]
+        },
+        {
+            "id": "68",
+            "time_begin": "15:10",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:25",
+            "theme_name": "网络创新：4G网络部署与创新",
+            "address": "东京千叶新大谷酒店2楼会议室“悠”",
+            "day": "2",
+            "type": "5",
+            "date": "2016-11-25",
+            "time": "15:10-15:25",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "4.5G网络建设峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "74",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Antti Jokinen",
+                    "company": "Suomen Yhteisverkk Oy",
+                    "position": "Suomen Yhteisverkk Oy首席执行官"
+                }
+            ]
+        },
+        {
+            "id": "91",
+            "time_begin": "15:25",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:40",
+            "theme_name": "T+F 融合：中国移动香港4.5G部署实践",
+            "address": "东京千叶新大谷酒店2楼会议室“悠”",
+            "day": "2",
+            "type": "5",
+            "date": "2016-11-25",
+            "time": "15:25-15:40",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "4.5G网络建设峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "73",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Sean Lee",
+                    "company": "中国移动香港",
+                    "position": "中国移动香港首席执行官"
+                }
+            ]
+        },
+        {
+            "id": "90",
+            "time_begin": "15:40",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:55",
+            "theme_name": "1Gbps部署：丹麦TDC 4.5G网络部署实践",
+            "address": "东京千叶新大谷酒店2楼会议室“悠”",
+            "day": "2",
+            "type": "5",
+            "date": "2016-11-25",
+            "time": "15:40-15:55",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "4.5G网络建设峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "133",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582e2958d353b.png",
+                    "guest_name": "Jesper Oldenburg",
+                    "company": "TDC集团",
+                    "position": "TDC集团移动战略和技术副总裁"
+                }
+            ]
+        },
+        {
+            "id": "72",
+            "time_begin": "15:55",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "16:25",
+            "theme_name": "4.5G演进: 通往5G之路 & Small Cell解决方案发布",
+            "address": "东京千叶新大谷酒店2楼会议室“悠”",
+            "day": "2",
+            "type": "5",
+            "date": "2016-11-25",
+            "time": "15:55-16:25",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "4.5G网络建设峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "70",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "蔡孟波",
+                    "company": "华为",
+                    "position": "华为LTE FDD产品线总裁"
+                }
+            ]
+        },
+        {
+            "id": "73",
+            "time_begin": "16:25",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "16:35",
+            "theme_name": "4.5G的全球大规模商用庆祝仪式",
+            "address": "东京千叶新大谷酒店2楼会议室“悠”",
+            "day": "2",
+            "type": "5",
+            "date": "2016-11-25",
+            "time": "16:25-16:35",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "4.5G网络建设峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "97",
+                    "guest_type": "2",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "运营商",
+                    "company": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "id": "40",
+            "time_begin": "14:00",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "14:05",
+            "theme_name": "开场视频",
+            "address": "东京千叶APA宴会厅2楼2号会议室",
+            "day": "2",
+            "type": "6",
+            "date": "2016-11-25",
+            "time": "14:00-14:05",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "云转型，促创新峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "101",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "主持人",
+                    "company": "",
+                    "position": ""
+                }
+            ]
+        },
+        {
+            "id": "74",
+            "time_begin": "14:05",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:30",
+            "theme_name": "核心网演进和业务创新",
+            "address": "东京千叶APA宴会厅2楼2号会议室 ",
+            "day": "2",
+            "type": "6",
+            "date": "2016-11-25",
+            "time": "14:05-15:30",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "云转型，促创新峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "69",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Scott Berry",
+                    "company": "EE ",
+                    "position": "EE核心网设计主管"
+                }
+            ]
+        },
+        {
+            "id": "75",
+            "time_begin": "14:30",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:00",
+            "theme_name": "MEC使能未来网络",
+            "address": "东京千叶APA宴会厅2楼2号会议室 ",
+            "day": "2",
+            "type": "6",
+            "date": "2016-11-25",
+            "time": "14:30-15:00",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "云转型，促创新峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "68",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "戴继盛",
+                    "company": "华为",
+                    "position": "华为分组核心网产品线副总裁"
+                }
+            ]
+        },
+        {
+            "id": "76",
+            "time_begin": "15:00",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:25",
+            "theme_name": "5G核心网的市场展望和技术演进",
+            "address": "东京千叶APA宴会厅2楼2号会议室",
+            "day": "2",
+            "type": "6",
+            "date": "2016-11-25",
+            "time": "15:00-15:25",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "云转型，促创新峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "78",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Gabriel Brown",
+                    "company": "Heavy Reading",
+                    "position": "Heavy Reading首席分析师"
+                }
+            ]
+        },
+        {
+            "id": "77",
+            "time_begin": "15:25",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "15:50",
+            "theme_name": "基于Gi-LAN优化的视频加速",
+            "address": "东京千叶APA宴会厅2楼2号会议室 ",
+            "day": "2",
+            "type": "6",
+            "date": "2016-11-25",
+            "time": "15:25-15:50",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "云转型，促创新峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "66",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Matt Halligan",
+                    "company": "Openwave",
+                    "position": "Openwave 首席技术官"
+                }
+            ]
+        },
+        {
+            "id": "78",
+            "time_begin": "15:50",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "16:10",
+            "theme_name": "最大化NFV网络的ROI",
+            "address": "东京千叶APA宴会厅2楼2号会议室 ",
+            "day": "2",
+            "type": "6",
+            "date": "2016-11-25",
+            "time": "15:50-16:10",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "云转型，促创新峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "141",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "Paul Senyshyn",
+                    "company": "Windriver",
+                    "position": "Windriver业务发展副总裁"
+                }
+            ]
+        },
+        {
+            "id": "79",
+            "time_begin": "16:10",
+            "vedio_url": "",
+            "vedio_type": "1",
+            "time_end": "16:30",
+            "theme_name": "观点分享：云化网络建设的新挑战和应对",
+            "address": "东京千叶APA宴会厅2楼2号会议室 ",
+            "day": "2",
+            "type": "6",
+            "date": "2016-11-25",
+            "time": "16:10-16:30",
+            "status": 2,
+            "status_op": "已结束",
+            "type_info": "云转型，促创新峰会",
+            "is_collect": 0,
+            "theme_guest": [
+                {
+                    "guest_id": "99",
+                    "guest_type": "1",
+                    "avatar": "http://huawei.vr68.com/Public/images/default.png",
+                    "guest_name": "所有与会者",
+                    "company": "",
+                    "position": ""
+                }
+            ]
+        }
+    ]

@@ -1,0 +1,346 @@
+[
+    {
+      "id": "1",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582314a5ae58c.jpg",
+      "guest_name": "胡厚崑",
+      "company": "华为",
+      "position": "华为副董事长",
+      "is_collect": 0
+    },
+    {
+      "id": "33",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5824499bca81a.png",
+      "guest_name": "宫内谦",
+      "company": "软银集团",
+      "position": "软银总裁兼CEO",
+      "is_collect": 0
+    },
+    {
+      "id": "27",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582315698011b.jpg",
+      "guest_name": "Mats Granryd",
+      "company": "GSMA",
+      "position": "GSMA 总干事",
+      "is_collect": 0
+    },
+    {
+      "id": "22",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/581ae44092765.png",
+      "guest_name": "丁耘",
+      "company": "华为",
+      "position": "华为常务董事，产品与解决方案总裁",
+      "is_collect": 0
+    },
+    {
+      "id": "28",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5823141218bb5.jpg",
+      "guest_name": "何力勤",
+      "company": "GTI",
+      "position": "GTI 主席",
+      "is_collect": 0
+    },
+    {
+      "id": "46",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/58335887b12a6.png",
+      "guest_name": "邓泰华",
+      "company": "华为",
+      "position": "华为无线网络产品线总裁",
+      "is_collect": 0
+    },
+    {
+      "id": "140",
+      "avatar": "http://huawei.vr68.com/Public/images/default.png",
+      "guest_name": "安剑",
+      "company": "华为",
+      "position": "华为无线网络Marketing与解决方案销售总裁",
+      "is_collect": 0
+    },
+    {
+      "id": "131",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582e29c54b1ba.png",
+      "guest_name": "岛田启一郎",
+      "company": "索尼",
+      "position": "索尼公司高级副总裁",
+      "is_collect": 0
+    },
+    {
+      "id": "128",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582f33290956f.jpg",
+      "guest_name": "黄宇红",
+      "company": "中国移动研究院",
+      "position": "中国移动研究院副院长",
+      "is_collect": 0
+    },
+    {
+      "id": "130",
+      "avatar": "http://huawei.vr68.com/Public/images/default.png",
+      "guest_name": "童文博士",
+      "company": "华为",
+      "position": "华为5G首席科学家",
+      "is_collect": 0
+    },
+    {
+      "id": "81",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582fc33380a74.jpg",
+      "guest_name": "杨超斌",
+      "company": "华为",
+      "position": "华为5G产品线总裁",
+      "is_collect": 0
+    },
+    {
+      "id": "134",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582e290a28397.jpg",
+      "guest_name": "周跃峰",
+      "company": "华为",
+      "position": "华为无线网络产品线首席营销官",
+      "is_collect": 0
+    },
+    {
+      "id": "38",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582312473c8e9.jpg",
+      "guest_name": "Ahn Sung Jun",
+      "company": "LG Uplus",
+      "position": "LG Uplus物联网业务高级副总裁",
+      "is_collect": 0
+    },
+    {
+      "id": "51",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582447848472c.jpg",
+      "guest_name": "Alain Maloberti",
+      "company": "Orange",
+      "position": "Orange执行副总裁",
+      "is_collect": 0
+    },
+    {
+      "id": "37",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5823130885c70.jpg",
+      "guest_name": "Alex Wellen",
+      "company": "CNN",
+      "position": "CNN首席产品官",
+      "is_collect": 0
+    },
+    {
+      "id": "35",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582313402857f.jpg",
+      "guest_name": "Arnaud Vamparys",
+      "company": "Orange",
+      "position": "Orange无线网络高级副总裁",
+      "is_collect": 0
+    },
+    {
+      "id": "137",
+      "avatar": "http://huawei.vr68.com/Public/images/default.png",
+      "guest_name": "Caroline Gabriel",
+      "company": "Rethink Technology Research",
+      "position": "Rethink Technology Research联合创始人与研究总监",
+      "is_collect": 0
+    },
+    {
+      "id": "135",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582c000285f48.jpg",
+      "guest_name": "Dr. Ibrahim Gedeon",
+      "company": "TELUS",
+      "position": "TELUS首席技术官",
+      "is_collect": 0
+    },
+    {
+      "id": "139",
+      "avatar": "http://huawei.vr68.com/Public/images/default.png",
+      "guest_name": "Federico Boccardi",
+      "company": "Ofcom",
+      "position": "Ofcom首席技术顾问",
+      "is_collect": 0
+    },
+    {
+      "id": "31",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5823143eb55a9.jpg",
+      "guest_name": "Fotis Karonis",
+      "company": "EE & BT集团",
+      "position": "EE首席技术信息官，BT集团移动与IT总经理",
+      "is_collect": 0
+    },
+    {
+      "id": "56",
+      "avatar": "http://huawei.vr68.com/Public/images/default.png",
+      "guest_name": "Kenichi Murata",
+      "company": "丰田",
+      "position": "丰田车联网战略主管",
+      "is_collect": 0
+    },
+    {
+      "id": "65",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5832cf7c6ae5d.jpg",
+      "guest_name": "Luke Ibbetson",
+      "company": "Vodafone",
+      "position": "沃达丰研发负责人",
+      "is_collect": 0
+    },
+    {
+      "id": "132",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582e297475c43.jpg",
+      "guest_name": "Mansoor Hanif",
+      "company": "BT集团",
+      "position": "英国电信网络与创新总监",
+      "is_collect": 0
+    },
+    {
+      "id": "53",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582bfecc61cbb.png",
+      "guest_name": "Michael Perry",
+      "company": "大疆",
+      "position": "大疆市场部副总裁",
+      "is_collect": 0
+    },
+    {
+      "id": "44",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582315b844883.jpg",
+      "guest_name": "Nandan Mer",
+      "company": "万事达卡",
+      "position": "万事达卡执行副总裁",
+      "is_collect": 0
+    },
+    {
+      "id": "141",
+      "avatar": "http://huawei.vr68.com/Public/images/default.png",
+      "guest_name": "Paul Senyshyn",
+      "company": "Windriver",
+      "position": "Windriver业务发展副总裁",
+      "is_collect": 0
+    },
+    {
+      "id": "50",
+      "avatar": "http://huawei.vr68.com/Public/images/default.png",
+      "guest_name": "Ririek Adriansyah",
+      "company": "TELKMOSEL",
+      "position": "TELKMOSEL首席执行官",
+      "is_collect": 0
+    },
+    {
+      "id": "103",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582bfda44e99b.png",
+      "guest_name": "Rodolphe Gelin",
+      "company": "SoftBank Corp.",
+      "position": "SoftBank机器人高级副总裁和首席科学官",
+      "is_collect": 0
+    },
+    {
+      "id": "41",
+      "avatar": "http://huawei.vr68.com/Public/images/default.png",
+      "guest_name": "Shimada Keiichiro",
+      "company": "索尼",
+      "position": "索尼公司高级副总裁 ",
+      "is_collect": 0
+    },
+    {
+      "id": "32",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5823162cbe076.jpg",
+      "guest_name": "Stefan Lampa",
+      "company": "KUKA机器人",
+      "position": "KUKA机器人首席执行官",
+      "is_collect": 0
+    },
+    {
+      "id": "43",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582316443a974.jpg",
+      "guest_name": "Steven Christopher Hopcraft",
+      "company": "TRUE",
+      "position": "TRUE首席技术官",
+      "is_collect": 0
+    },
+    {
+      "id": "82",
+      "avatar": "http://huawei.vr68.com/Public/images/default.png",
+      "guest_name": "Takehiro Nakamura",
+      "company": "NTT DOCOMO",
+      "position": "NTT DOCOMO副总裁，5G实验室总经理 ",
+      "is_collect": 0
+    },
+    {
+      "id": "45",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/58231671d6042.jpg",
+      "guest_name": "Thibaud Rerolle",
+      "company": "Safaricom",
+      "position": "Safaricom首席技术官",
+      "is_collect": 0
+    },
+    {
+      "id": "39",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5832d17f728e0.png",
+      "guest_name": "Veli-Matti Johannes Mattila",
+      "company": "Elisa",
+      "position": "Elisa首席执行官",
+      "is_collect": 0
+    },
+    {
+      "id": "55",
+      "avatar": "http://huawei.vr68.com/Public/images/default.png",
+      "guest_name": "Yuki Saji",
+      "company": "SB",
+      "position": "SB Drive首席执行官",
+      "is_collect": 0
+    },
+    {
+      "id": "109",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5832d42140e88.png",
+      "guest_name": "北原秀文",
+      "company": "软银",
+      "position": "软银移动高级总监",
+      "is_collect": 0
+    },
+    {
+      "id": "96",
+      "avatar": "http://huawei.vr68.com/Public/images/default.png",
+      "guest_name": "陈立东",
+      "company": "中国工信部",
+      "position": "中国工信部通信发展司副司长",
+      "is_collect": 0
+    },
+    {
+      "id": "29",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582314c22a12d.jpg",
+      "guest_name": "村井纯教授",
+      "company": "庆应义塾大学",
+      "position": "庆应义塾大学环境与信息学院院长，日本互联网之父",
+      "is_collect": 0
+    },
+    {
+      "id": "108",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582e2db18b39b.jpg",
+      "guest_name": "飯田唯史",
+      "company": "软银",
+      "position": "软银移动技术本部执行役员本部长",
+      "is_collect": 0
+    },
+    {
+      "id": "142",
+      "avatar": "http://huawei.vr68.com/Public/images/default.png",
+      "guest_name": "江海涛",
+      "company": "达闼科技",
+      "position": "达闼科技首席运营官",
+      "is_collect": 0
+    },
+    {
+      "id": "34",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582315512ac7d.jpg",
+      "guest_name": "津田纯嗣",
+      "company": "安川电机",
+      "position": "安川电机董事长",
+      "is_collect": 0
+    },
+    {
+      "id": "40",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/5823161819f6d.jpg",
+      "guest_name": "下辻成佳",
+      "company": "东芝",
+      "position": "东芝副总裁，工业ICT执行副总裁",
+      "is_collect": 0
+    },
+    {
+      "id": "36",
+      "avatar": "http://huawei.vr68.com/Public/images/upload/guest/582bfe16a160c.png",
+      "guest_name": "中村宽博士",
+      "company": "NTT DOCOMO",
+      "position": "NTT DOCOMO高级副总裁",
+      "is_collect": 0
+    }
+  ]

@@ -1,0 +1,35 @@
+[
+      {
+        "id": "11",
+        "ad_name": "华为轮值CEO胡厚崑发布移动宽带X Labs计划 ",
+        "ad_name_en": "Three Labs for Building Application-Centric Networks in Three Major Markets",
+        "type": "0",
+        "target_id": "5",
+        "banner_img": "http://huawei.vr68.com/Public/images/upload/5836dfad320e3.jpg",
+        "banner_img_en": "http://huawei.vr68.com/Public/images/upload/5837bd8d47837.jpg",
+        "ad_url": "http://www.huawei.com/cn/news/2016/11/kenHu-MBBF-XLabs",
+        "ad_url_en": "http://www.huawei.com/en/news/2016/11/kenHu-MBBF-XLabs"
+      },
+      {
+        "id": "10",
+        "ad_name": "华为阐述无线网络全云化理念",
+        "ad_name_en": "Huawei Unveils Vision for All Cloud Mobile Networks",
+        "type": "0",
+        "target_id": "1",
+        "banner_img": "http://huawei.vr68.com/Public/images/upload/583929b626bbc.jpg",
+        "banner_img_en": "http://huawei.vr68.com/Public/images/upload/583929be14b2b.jpg",
+        "ad_url": "http://www.huawei.com/minisite/hwmbbf16/cn/insight.html",
+        "ad_url_en": "http://www.huawei.com/minisite/hwmbbf16/en/insight.html"
+      },
+      {
+        "id": "6",
+        "ad_name": "丁耘：5G建设从现在起步 ",
+        "ad_name_en": "Huawei Launches First Systematic Methodology for IoT Network Planning",
+        "type": "0",
+        "target_id": "18",
+        "banner_img": "http://huawei.vr68.com/Public/images/upload/5836e0d1c68e3.jpg",
+        "banner_img_en": "http://huawei.vr68.com/Public/images/upload/5837be212473d.jpg",
+        "ad_url": "http://www.huawei.com/cn/news/2016/11/Dingyun-On-the-Road-to-5G",
+        "ad_url_en": "http://www.huawei.com/en/news/2016/11/Dingyun-On-the-Road-to-5G"
+      }
+]
