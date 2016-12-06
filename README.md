@@ -21,7 +21,8 @@
     
   3:工程配置
   
-    setting.py   修改数据库连接配置
+    HWMBBF_serve项目  下 HWHMBBF/setting.py   修改数据库连接配置
     
-    
+    打开HMBBF项目目录 (www/js/customServices.js 修改dataService服务的 mainUrl 属性)
+    
     
